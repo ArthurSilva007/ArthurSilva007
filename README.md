@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Atualmente estudando Beck-End
 - 🌱 Estudando Pyhton
-- 😄 Pronouns: ele/dele
+
 
 
 
