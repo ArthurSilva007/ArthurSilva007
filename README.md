@@ -1,27 +1,46 @@
-# 👋 Olá, eu sou Anderson Silva!
-💻 Desenvolvedor Backend | Entusiasta de Tecnologia 🚀
+# Olá, eu sou Arthur Silva! 👋  
+**Desenvolvedor Backend | Java & Spring Boot | Python**  
+📍 Caruaru, PE | 🎓 Formando em Análise e desenvolvimento de sistemas 
+💡 Apaixonado por resolver problemas com código limpo e APIs eficientes  
 
-🔹 Focado em **Java, Spring Boot, Python e Django**  
-🔹 Aprimorando habilidades em **SQL, API REST e microsserviços**  
+---
 
+## 🛠️ Stack Principal  
 
-
-[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurSilva007&show_icons=true&theme=dark)
-
-### 🚀 Tecnologias e Ferramentas  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-![Visitantes](https://komarev.com/ghpvc/?username=ArthurSilva007&color=green)
+## 📊 GitHub Analytics  
 
+| ![Estatísticas Arthur](https://github-readme-stats.vercel.app/api?username=ArthurSilva007&show_icons=true&theme=dark&hide=issues,contribs&count_private=true) | ![Linguagens Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS) |
+| --- | --- |
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark)
-##
+---
 
+## 🚀 Projeto em Destaque  
+
+### [🔗 API de Produtos com Spring Boot](https://github.com/ArthurSilva007/api-produtos-spring)  
+✔ CRUD completo com H2 Database  
+✔ Tratamento customizado de erros (`@ControllerAdvice`)  
+✔ Testes no Postman  
+✔ Em progresso: Documentação Swagger  
+
+---
+
+## 🌟 Habilidades em Desenvolvimento  
+
+# java
+# Foco atual:
+@Bean
+public Habilidade novaHabilidade() { 
+    return new Habilidade("Spring Security", Nivel.INTERMEDIARIO);
+}
 
 <div> 
   <a href="https://www.instagram.com/arthureris/profilecard/?igsh=Y2N2dGljbnhqcTBr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
