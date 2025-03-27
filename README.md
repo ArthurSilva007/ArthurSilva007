@@ -6,7 +6,7 @@
 
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurSilva007&show_icons=true&theme=dark)
 
 ### 🚀 Tecnologias e Ferramentas  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
