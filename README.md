@@ -16,10 +16,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Visitantes](https://komarev.com/ghpvc/?username=seu-usuario&color=green)
+![Visitantes](https://komarev.com/ghpvc/?username=ArthurSilva007&color=green)
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark)
 ##
 
 
