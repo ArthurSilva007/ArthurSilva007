@@ -35,7 +35,7 @@
 
 ## 🌟 Habilidades em Desenvolvimento  
 
-# java
+```java
 // Foco atual:
 @Bean
 public Habilidade novaHabilidade() {
