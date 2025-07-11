@@ -1,5 +1,5 @@
 # Olá, eu sou Anderson Silva! 👋  
-**Desenvolvedor Backend | Java & Spring Boot | Python**  
+**Desenvolvedor Backend | Java & Spring Boot**  
 📍 Caruaru, PE | 🎓 Formando em Análise e desenvolvimento de sistemas 
 💡 Apaixonado por resolver problemas com código limpo e APIs eficientes  
 
