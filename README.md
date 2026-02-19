@@ -24,10 +24,15 @@
 
 ---
 
-## 📊 GitHub Analytics  
+ ( ## 📊 GitHub Analytics  
 
-| ![Estatísticas Arthur](https://github-readme-stats.vercel.app/api?username=ArthurSilva007&show_icons=true&theme=dark&hide=issues,contribs&count_private=true) | ![Linguagens Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS) |
-| --- | --- |
+<p align="center">
+<img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=ArthurSilva007&show_icons=true&theme=dark&hide=issues,contribs&count_private=true&include_all_commits=true" />
+<img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS" />
+</p>
+
+<br clear="both"> |
+| --- | --- |)
 
 ---
 
