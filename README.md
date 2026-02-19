@@ -66,4 +66,3 @@ public Habilidade novaHabilidade() {
     return new Habilidade("Spring Security", Nivel.INTERMEDIARIO);
 }
 
-
