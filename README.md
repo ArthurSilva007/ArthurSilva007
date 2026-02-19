@@ -27,11 +27,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ArthurSilva007?template=classic&base=header,activity,community,repositories&base.indepth=false&config.timezone=America%2FSao_Paulo" alt="GitHub Metrics" width="100%" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurSilva007&theme=dark" alt="Streak Stats Arthur" />
+  
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS" alt="Linguagens Arthur" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilva007&layout=compact&theme=dark&hide=Jupyter%20Notebook,HTML,CSS" alt="Linguagens" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurSilva007&theme=dark" alt="Detalhes do Perfil" width="100%" />
 </p>
 
 ---
